@@ -11,6 +11,13 @@
 - [Miscellaneous](#miscellaneous)
 
 
+## Text editor support
+
+> Syntax highlighting and other goodies
+
+- [Sublime Text CAOS syntax support](https://github.com/KeyboardInterrupt/sublime-caos-syntax)
+- [Atom CAOS syntax support](https://atom.io/packages/language-caos)
+
 ## Tools
 
 > Tools for Creatures Development
